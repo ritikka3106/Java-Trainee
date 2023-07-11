@@ -1,0 +1,19 @@
+class GFG {
+	public static void main(String args[])
+	{
+		char a = 'G';
+		int i = 31;
+		byte b = 6;
+		short s = 37;
+		double d = 5.12336458;
+		float f = 7.32145654f;
+		long l = 12341;
+     	System.out.println("char: " + a);
+		System.out.println("integer: " + i);
+		System.out.println("byte: " + b);
+		System.out.println("short: " + s);
+		System.out.println("float: " + f);
+		System.out.println("double: " + d);
+		System.out.println("long: " + l);
+	}
+}
